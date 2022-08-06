@@ -1,0 +1,21 @@
+{
+  "id": "blk-design-system-1210ew1",
+  "name": "blk-design-system",
+  "created": "2022-08-06T01:02:40.166Z",
+  "description": "",
+  "blueprints": [
+    {
+      "version": "2019-10-24",
+      "connections": {},
+      "resources": {},
+      "metadata": {
+        "designer": {
+          "resourcePositions": {}
+        }
+      },
+      "id": "blk-design-system-1100eik",
+      "name": "blk-design-system"
+    }
+  ],
+  "type": "altostra"
+}
